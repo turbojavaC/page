@@ -1,7 +1,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-<title>Site web de Sam</title>
+<title>Site web de Sami</title>
 <link rel="stylesheet" href="assets/css/bootstrap.min.css">
 <link rel="stylesheet" href="assets/font-awesome/css/font-awesome.min.css">
 </head>
